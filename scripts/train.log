@@ -1,0 +1,9 @@
+14:32:31 | Run config | epochs 30 | image_size 128 | batch 32 | lr 0.001 | seed 0
+14:32:31 | Loading CIFAR-100 from ./cifar100 (download if missing)...
+14:32:32 | CIFAR-100 ready | train 50000 | test 10000
+14:32:32 | Building dataloaders...
+14:32:32 | Building MobileViT-XS model...
+14:32:32 | Starting training | device cuda | early-stopping patience 10
+14:33:57 | Epoch   1/30 | time   84.4s | train loss 3.9680 | top1   8.32 | top5  27.38 | val loss 3.6335 | top1  12.84 | top5  39.01 | best train   8.32 | best val  12.84
+14:35:06 | Epoch   2/30 | time   69.7s | train loss 3.8365 | top1  10.73 | top5  31.84 | val loss 3.8792 | top1  10.39 | top5  31.29 | best train  10.73 | best val  12.84
+14:36:25 | Epoch   3/30 | time   78.2s | train loss 3.6357 | top1  13.71 | top5  37.90 | val loss 3.9216 | top1   9.89 | top5  29.75 | best train  13.71 | best val  12.84
