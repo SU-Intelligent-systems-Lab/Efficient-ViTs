@@ -1,2 +1,1 @@
-weights/
-*.pt
+weights/efficientformer_l3.pt
