@@ -196,7 +196,6 @@ train (1430 img/s); the **EfficientViT-M** family is by far the fastest
 middle ground (79.04% top-1 at 2794 img/s). EfficientFormer-L7 / L7-mini were
 not trained in this run.
 
-Result plots:
 <img src="assets/figures/fig_acc_params.png" alt="drawing" width="600"/>
 <img src="assets/figures/fig_lat_acc.png" alt="drawing" width="600"/>
 
